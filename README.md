@@ -17,13 +17,13 @@ To get started, you can clone this repository to your local machine using the fo
 git clone https://github.com/mananjain02/rag_custom_data.git
 ```
 
-Add PDF files to docs
+Add PDF files to docs, then run the command
 
 ```bash
 python index.py
 ```
 
-Start the ChatBot
+To start the ChatBot, run the command
 ```bash
 python main.py
 ```
