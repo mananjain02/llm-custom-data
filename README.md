@@ -17,7 +17,7 @@ To get started, you can clone this repository to your local machine using the fo
 git clone https://github.com/mananjain02/rag_custom_data.git
 ```
 
-Install the requirements, run the command
+To install the requirements, run the command
 
 ```bash
 pip install -r requirements.txt
@@ -33,3 +33,5 @@ To start the ChatBot, run the command
 ```bash
 python main.py
 ```
+
+Feel free to explore the code, open issues, and make pull requests. We appreciate your support and look forward to collaborating with you!
