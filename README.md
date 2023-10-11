@@ -34,4 +34,4 @@ To start the ChatBot, run the command
 python main.py
 ```
 
-Feel free to explore the code, open issues, and make pull requests. We appreciate your support and look forward to collaborating with you!
+Feel free to explore the code, open issues, and make pull requests. I appreciate your support and look forward to collaborating with you!
