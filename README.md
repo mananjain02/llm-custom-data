@@ -23,7 +23,7 @@ To install the requirements, run the command
 pip install -r requirements.txt
 ```
 
-Add PDF files to docs, then run the command
+Create a folder named docs, add PDF files to docs, then run the command
 
 ```bash
 python index.py
