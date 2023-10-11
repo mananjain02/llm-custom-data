@@ -17,6 +17,12 @@ To get started, you can clone this repository to your local machine using the fo
 git clone https://github.com/mananjain02/rag_custom_data.git
 ```
 
+Install the requirements, run the command
+
+```bash
+pip install -r requirements.txt
+```
+
 Add PDF files to docs, then run the command
 
 ```bash
